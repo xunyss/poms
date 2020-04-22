@@ -37,7 +37,6 @@
 	</properties>
 	
 	<repositories>
-		<!--
 		<repository>
 			<id>github-mvn-repo</id>
 			<url>https://raw.github.com/xunyss/poms/mvn-repo/</url>
@@ -46,7 +45,6 @@
 				<updatePolicy>always</updatePolicy>
 			</snapshots>
 		</repository>
-		-->
 	</repositories>
 	
 	<distributionManagement>

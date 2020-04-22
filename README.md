@@ -16,3 +16,7 @@ settings.xml
 
 # mvn
 mvn source:jar install
+
+
+# must!
+mvn install poms
