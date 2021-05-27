@@ -10,7 +10,7 @@ settings.xml
     <server>
       <id>github</id>
       <username>xunyss@gmail.com</username>
-      <password>PASSWORD</password>
+      <password>{PASSWORD}</password>
     </server>
 
 
